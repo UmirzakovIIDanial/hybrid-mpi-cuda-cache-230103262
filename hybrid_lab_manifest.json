@@ -1,0 +1,25 @@
+{
+  "github_username": "UmirzakovIIDanial",
+  "gpu_uuid": "GPU-638d570b-778e-c416-371d-fcbbeb106c1f",
+  "instance_seed": 4332409696938270585,
+  "mpi_ranks": 4,
+  "gpu_serialized_ms": 6854.422286000045,
+  "gpu_overlapped_ms": 2663.7815909999745,
+  "parity_max_diff": 0.0,
+  "ptx_audit_passed": true,
+  "ptx_counts": {
+    "st_shared_f64": 5,
+    "ld_shared_f64": 5,
+    "bar_sync": 1
+  },
+  "energy_trace": [
+    0.05606443630465711,
+    0.05606975185521909,
+    0.056075126078102625,
+    0.05608053387292629
+  ],
+  "kappa_max": 0.23999962497115201,
+  "shm_latency_stride_1_ms": 118.03063900003963,
+  "shm_latency_stride_8_ms": 102.1421550000241,
+  "shm_latency_stride_16_ms": 101.81632899991655
+}
